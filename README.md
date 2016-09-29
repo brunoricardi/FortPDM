@@ -1,5 +1,5 @@
 # pdm
-Series of routines to calculate pair density matrices. This is based on the work previous done by David Ceperley [1].  
+Series of routines to calculate pair density matrices. This is based on the work previously done by David Ceperley [1].  
 It is an open cientific code. If it is used, all results and publishing must acknowledge the author.  
 Feel free to contact me anytime: bruno.ifgw08@gmail.com  
   
